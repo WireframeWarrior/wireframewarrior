@@ -2569,6 +2569,12 @@ input, select, textarea {
 	margin-bottom: 40px;
 }
 
+.youtube-video {
+	aspect-ratio: 16 / 9;
+	width: 100%;
+	
+  }
+
 /*Grid*/
 .container {
     display: flex;
