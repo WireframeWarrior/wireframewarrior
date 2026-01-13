@@ -1,4 +1,4 @@
-### Hello world 👋
+### My portfolio website. Primarily focused on motion graphics and interactive media. Currently working on adding more content that I've created. 👋
 
 <!--
 **WireframeWarrior/wireframewarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
